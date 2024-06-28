@@ -24,7 +24,7 @@ cohere_api_key=os.environ['COHERE_API_KEY']
 
 if "vector" not in st.session_state:
     st.session_state.embeddings = CohereEmbeddings(cohere_api_key=cohere_api_key)
-    st.session_state.loader = PyPDFLoader("files/goog-10-k-2023 (1).pdf")
+    st.session_state.loader = PyPDFLoader("files/result.pdf")
     st.session_state.docs=st.session_state.loader.load()
 
     st.session_state.text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000,chunk_overlap=200)
