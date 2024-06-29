@@ -46,6 +46,7 @@ It generates insights from analyzed documents, providing summaries, key points, 
 
 Streamlit frontend provides an intuitive interface for users to upload documents, view comparisons, and interact with generated insights.
 
+
 ## Getting Started
 
 To run the Content Engine Chatbot locally or deploy it, follow these steps:
@@ -63,6 +64,23 @@ To run the Content Engine Chatbot locally or deploy it, follow these steps:
 3. **Run the Chatbot:**
    ```bash
    streamlit run app.py
+
+
+## Prerequisite
+
+1. **Add your required API keys in the .env file:**
+This include the api keys of **groaq** and **cohere**
+
+
+2. **Create an Environment:**
+   ```bash
+   python3 -m venv .venv
+
+
+3. **Activate Environment:**
+   ```bash
+   .venv\Scripts\activate
+
 
 ## Usage
 
