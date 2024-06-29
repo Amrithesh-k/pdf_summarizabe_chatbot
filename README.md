@@ -61,5 +61,52 @@ To run the Content Engine Chatbot locally or deploy it, follow these steps:
    pip install -r requirements.txt
 
 3. **Run the Chatbot:**
-    ```bash
-    streamlit run app.py
+   ```bash
+   streamlit run app.py
+
+## Usage
+
+1. **Enter your Question:**
+
+    [enter the qn](images/S1.png)
+
+2. **Answer is Provided:**
+
+    [This is the ans](images/demo.png)
+
+# Contributing to the Content Engine Chatbot
+
+Contributions to the Content Engine Chatbot are welcome! If you'd like to contribute, follow these steps:
+
+1. **Fork the Repository:**
+   - Start by forking the repository on GitHub. This creates a copy of the repository under your GitHub account.
+
+2. **Create a New Branch:**
+   - After forking, create a new branch for your feature or changes. You can do this using the following command:
+     ```
+     git checkout -b feature/new-feature
+     ```
+
+3. **Make Your Changes:**
+   - Make the necessary changes to the code, documentation, or any other aspect you're working on.
+
+4. **Test Locally:**
+   - Before committing your changes, test them locally to ensure everything works as expected.
+
+5. **Commit Your Changes:**
+   - Once you're satisfied with your changes, commit them using:
+     ```
+     git commit -am 'Add new feature'
+     ```
+
+6. **Push to the Branch:**
+   - Push your changes to the branch you created:
+     ```
+     git push origin feature/new-feature
+     ```
+
+7. **Create a Pull Request:**
+   - Finally, create a new pull request (PR) from your forked repository to the original repository. Describe your changes and submit the PR.
+
+Remember to follow any specific guidelines or conventions set by the project maintainers. Happy contributing! 🚀👍
+x`
