@@ -32,6 +32,14 @@ For the user interface, **Streamlit** is used to create an interactive frontend 
 
 The chatbot leverages both **LLama3 Local** and **Groq_api (LLama3)** as LLMS (Large Language Models) for generating insights and responses based on document analysis.
 
+
+## Pipeline Architecture Diagram
+
+![uml image](https://github.com/Amrithesh-k/pdf_summarizabe_chatbot/blob/main/images/uml.png?raw=true)
+
+
+
+
 ## Features
 
 ### 1. Document Comparison
