@@ -68,11 +68,11 @@ To run the Content Engine Chatbot locally or deploy it, follow these steps:
 
 1. **Enter your Question:**
 
-    [enter the qn](images/S1.png)
+    ![enter the qn](https://github.com/Amrithesh-k/pdf_summarizabe_chatbot/blob/main/images/S1.png?raw=true)
 
 2. **Answer is Provided:**
 
-    [This is the ans](images/demo.png)
+    ![This is the ans](https://github.com/Amrithesh-k/pdf_summarizabe_chatbot/blob/main/images/demo.png?raw=true)
 
 # Contributing to the Content Engine Chatbot
 
