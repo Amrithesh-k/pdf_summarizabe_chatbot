@@ -134,5 +134,4 @@ Contributions to the Content Engine Chatbot are welcome! If you'd like to contri
 7. **Create a Pull Request:**
    - Finally, create a new pull request (PR) from your forked repository to the original repository. Describe your changes and submit the PR.
 
-Remember to follow any specific guidelines or conventions set by the project maintainers. Happy contributing! 🚀👍
-x`
+
